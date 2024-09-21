@@ -1,0 +1,12 @@
+.user_list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+.user_item {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+.user_item:last-child {
+  border-bottom: none;
+}
